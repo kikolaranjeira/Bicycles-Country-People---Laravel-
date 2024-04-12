@@ -32,7 +32,7 @@ Install XAMPP Control Panel and enable Apache and MySQL.
    ```
 
 4. **Create Database:**
-   Create a MySQL database named "bikes".
+   Create a MySQL database named "bikes" or wherever you like.
 
 5. **Migrate Database:**
    ```
