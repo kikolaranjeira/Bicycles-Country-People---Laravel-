@@ -12,6 +12,9 @@ This Laravel project serves as a comprehensive management system for storing inf
 ## Getting Started:
 
 To run the project locally and set up the necessary dependencies, follow these steps:
+Install XAMPP Control Panel and enable Apache and MySQL. 
+
+![Screenshot_5](https://github.com/kikolaranjeira/People-Bicycles-Country---LARAVEL/assets/150380154/26ed4db9-a188-49ee-be71-60b21a3028d8)
 
 1. **Clone Repository:**
    ```
@@ -69,3 +72,20 @@ Now, you can navigate to `http://localhost:8000` (or the URL provided by the `ph
 - **Delete:** Removes a bicycle record from the system permanently using soft delete.
 
 Feel free to explore and utilize the CRUD functionalities provided by the project to manage your data effectively.
+
+
+### PREVIEW:
+
+![Screenshot_1](https://github.com/kikolaranjeira/People-Bicycles-Country---LARAVEL/assets/150380154/148c212b-21fc-417c-aabb-1545a87bc2b5)
+![Screenshot_3](https://github.com/kikolaranjeira/People-Bicycles-Country---LARAVEL/assets/150380154/dd5d77ca-6b36-4a3f-9190-7dd93b4c5cfb)
+![Screenshot_2](https://github.com/kikolaranjeira/People-Bicycles-Country---LARAVEL/assets/150380154/2d62ad34-7539-4f84-b314-9c4bc7a9af25)
+![Screenshot_4](https://github.com/kikolaranjeira/People-Bicycles-Country---LARAVEL/assets/150380154/fde1bf77-aa8a-464d-9764-9ad2e0515f0e)
+
+
+
+
+
+
+
+
+
