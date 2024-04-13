@@ -37,7 +37,7 @@ Install XAMPP Control Panel and enable Apache and MySQL.
 5. **Migrate Database:**
    ```
    php artisan migrate:fresh --seed 🌱
-   '''
+
    php artisan db:seed 🌱
 
    ```
