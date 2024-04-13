@@ -18,7 +18,7 @@ Install XAMPP Control Panel and enable Apache and MySQL.
 
 1. **Clone Repository:**
    ```
-   git clone <repository_url>
+   git clone <repository_url> :
    ```
 
 2. **Install Composer Dependencies (Vendor):**
@@ -36,7 +36,10 @@ Install XAMPP Control Panel and enable Apache and MySQL.
 
 5. **Migrate Database:**
    ```
-   php artisan migrate:fresh --seed
+   php artisan migrate:fresh --seed 🌱
+   '''
+   php artisan db:seed 🌱
+
    ```
    This command will create the necessary tables in the database and populate them with fake data using seeders.
 
