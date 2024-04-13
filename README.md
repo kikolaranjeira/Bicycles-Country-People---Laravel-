@@ -39,7 +39,6 @@ Install XAMPP Control Panel and enable Apache and MySQL.
    php artisan migrate:fresh --seed 🌱
 
    php artisan db:seed 🌱
-
    ```
    This command will create the necessary tables in the database and populate them with fake data using seeders.
 
